@@ -1,0 +1,1 @@
+pyuic6 -x Send_Email.ui -o Send_Email.py
